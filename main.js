@@ -29,6 +29,11 @@ function render (data){
 }
 searchinput.addEventListener("input", function(e){
 let box = e.target.value.toLowerCase();
+let filterDatas = datas.filter(el =>
+    el.answer.toLowerCase().includes(box)
+    el.question.toLowerCase().includes(box)
+);
+fil
 })
     
 
