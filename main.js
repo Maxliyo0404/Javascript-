@@ -27,4 +27,6 @@ function render (data){
         `).join("");
         wrapper.innerHTML = cards;
 }
- render (datas);
+searchinput function(e){
+    let box = e.target.value(e =>)
+}
