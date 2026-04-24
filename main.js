@@ -25,5 +25,6 @@ function render (data){
               <a href="#">${el.answer}</a>
         </div>
         `).join("");
-        wrapper.innerHTML = cards
+        wrapper.innerHTML = cards;
 }
+ render (data);
