@@ -23,6 +23,7 @@ function render (data){
               <h1 class="">${el.question}</h1>
               <p>${el.options}</p>
               <a href="#">${el.answer}</a>
-</div>
-        `)
+        </div>
+        `).join("");
+        wrapper.innerHTML = cards
 }
