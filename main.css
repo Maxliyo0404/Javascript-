@@ -9,3 +9,11 @@
     margin: 100px auto 0;
     background: slateblue;
 }
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+.cards{
+    
+}
