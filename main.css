@@ -15,5 +15,8 @@
     gap: 30px;
 }
 .cards{
-    
+    max-width: 100%;
+    border: 1px solid gray;
+    padding: 15px;
+    text-align: center;
 }
