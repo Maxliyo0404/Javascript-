@@ -16,4 +16,6 @@ let datas = [
 {"id":12,"question":"What is a 'noun'?","options":["An action word","A person, place, or thing","A word that describes a verb","A word that shows emotion"],"answer":"A person, place, or thing","level":"Beginner"}
 
 ]
-
+function render (data){
+    let cards
+}
