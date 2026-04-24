@@ -27,4 +27,4 @@ function render (data){
         `).join("");
         wrapper.innerHTML = cards;
 }
- render (data);
+ render (datas);
