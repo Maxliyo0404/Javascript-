@@ -7,7 +7,12 @@
 .container{
     max-width: 1200px;
     margin: 100px auto 0;
-    background: slateblue;
+    background: rgb(184, 175, 236);
+}
+.input{
+    width: 100%;
+    padding: 15px 0;
+
 }
 .wrapper{
     display: grid;
@@ -16,7 +21,11 @@
 }
 .cards{
     max-width: 100%;
-    border: 1px solid gray;
+    border: 1px solid rgb(202, 182, 182);
     padding: 15px;
     text-align: center;
+}
+.rasm{
+    max-width: 100%;
+    min-height: 300px;
 }
