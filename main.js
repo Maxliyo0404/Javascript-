@@ -4,15 +4,8 @@ let wrapper = document.getElementById("wrapper");
 let datas = [
   {
     "id": 1,"question": "What is the past tense of the verb 'to go'?","options": ["Goes", "Went", "Gone", "Going"], "answer": "Went", "level": "Beginner"},
-  { "id": 2,"question": "Which word is a synonym for 'happy'?","options": ["Sad", "Angry", "Joyful", "Tired"],"answer": "Joyful","level": "Beginner"
-  },
-  {
-    "id": 3,
-    "question": "Choose the correct article: I saw ___ elephant at the zoo.",
-    "options": ["a", "an", "the", "no article"],
-    "answer": "an",
-    "level": "Beginner"
-  },
+  { "id": 2,"question": "Which word is a synonym for 'happy'?","options": ["Sad", "Angry", "Joyful", "Tired"],"answer": "Joyful","level": "Beginner"},
+  {"id": 3,"question": "Choose the correct article: I saw ___ elephant at the zoo.", "options": ["a", "an", "the", "no article"], "answer": "an","level": "Beginner"},
   {
     "id": 4,
     "question": "Identify the adjective in the sentence: 'The blue sky is beautiful.'",
