@@ -27,6 +27,8 @@ function render (data){
         `).join("");
         wrapper.innerHTML = cards;
 }
-searchinput function(e){
-    let box = e.target.value(e =>)
-}
+searchinput.addEventListener("input", function(e){
+let box = e.target.value.toLowerCase();
+})
+    
+
