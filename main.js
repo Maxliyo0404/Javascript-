@@ -17,5 +17,7 @@ let datas = [
 
 ]
 function render (data){
-    let cards
+    let cards = datas.map(el => `
+        
+        `)
 }
