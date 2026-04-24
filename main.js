@@ -19,7 +19,7 @@ let datas = [
 function render (data){
     let cards = datas.map(el => `
         <div class="card">
-             <img class="rasm"  src="https://picsum.photos/200/300?random=${item.id} " alt="rasm">
+             <img class="rasm"  src="https://picsum.photos/200/300?random=${el.id} " alt="rasm">
               <h1 class="">${el.question}</h1>
               <p>${el.options}</p>
               <a href="#">${el.answer}</a>
