@@ -67,4 +67,6 @@
   margin-bottom: 30px;
   outline: none;
 }
-. 
+. form{
+    max-width: 100%;
+}
