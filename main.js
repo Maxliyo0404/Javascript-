@@ -21,7 +21,7 @@ function render (data){
         <div class="card">
              <img class="rasm"  src="https://picsum.photos/200/300?random=${el.id} " alt="rasm">
               <h1 class="title">${el.answer}</h1>
-              <p>${el.question}</p>
+              <p class="title">${el.question}</p>
               <a href="#">${el.options}</a>
         </div>
         `).join("");
