@@ -24,6 +24,8 @@
     border: 1px solid gray;
     padding: 1px;
     text-align: center;
+    display: flex;
+    align-items: center;
 }
 .rasm{
     width: 100%;
@@ -50,7 +52,7 @@
    color: blue;
    font-size: 16px;
    line-height: 20px;
-
+ 
 }
 .lebel{
   max-width: 100%;
