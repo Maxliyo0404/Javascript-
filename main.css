@@ -45,3 +45,10 @@
    line-height: 20px;
    margin-bottom: 10px;
 }
+.text{
+   max-width: 100%;
+   color: #fff;
+   font-size: 18px;
+   line-height: 20px;
+   margin-bottom: 10px;
+}
