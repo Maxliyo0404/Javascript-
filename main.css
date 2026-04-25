@@ -26,6 +26,7 @@
     text-align: center;
     display: flex;
     align-items: center;
+    flex-direction: column;
 }
 .rasm{
     width: 100%;
@@ -61,8 +62,9 @@
   outline: none;
 }
 .input{
-  max-width: 100%;
+  max-width: 80%;
   padding: 12px 0;
   margin-bottom: 30px;
   outline: none;
 }
+. 
