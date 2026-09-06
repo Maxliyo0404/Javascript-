@@ -9,7 +9,12 @@
     margin: 100px auto 0;
     background: rgb(184, 175, 236);
 }
-
+.input{
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 12px;
+    
+}
 .wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -65,6 +70,9 @@
   outline: none;
    background: rgb(81, 81, 243);
    color: white;
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 12px;
 }
 .form{
     max-width: 100%;
