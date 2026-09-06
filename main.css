@@ -67,10 +67,11 @@
   padding: 12px 0;
   margin-bottom: 30px;
   outline: none;
+   background: blue;
 }
 .form{
     max-width: 100%;
-     background: blue;
+    
 }
 .btn{
     padding: 12px 50px;
