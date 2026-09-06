@@ -9,7 +9,6 @@
     margin: 100px auto 0;
     background: rgb(184, 175, 236);
 }
-
 .wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
