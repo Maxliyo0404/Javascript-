@@ -8,12 +8,11 @@
     max-width: 1200px;
     margin: 100px auto 0;
     background: rgb(184, 175, 236);
-    border-radius: 12px;
 }
 .input{
     width: 100%;
     padding: 15px 0;
-
+    border-radius: ;
 }
 .wrapper{
     display: grid;
