@@ -10,8 +10,7 @@
     background: rgb(184, 175, 236);
 }
 .input{
-    width: 100%;
-    
+
 .wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
