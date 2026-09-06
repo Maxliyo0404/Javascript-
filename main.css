@@ -70,6 +70,7 @@
 }
 .form{
     max-width: 100%;
+     background: blue;
 }
 .btn{
     padding: 12px 50px;
