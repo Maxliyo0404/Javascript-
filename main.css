@@ -12,7 +12,7 @@
 .input{
     width: 100%;
     padding: 15px 0;
-    border-radius: ;
+    border-radius: 12px;
 }
 .wrapper{
     display: grid;
