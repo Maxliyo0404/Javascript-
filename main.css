@@ -11,8 +11,7 @@
 }
 .input{
     width: 100%;
-    padding: 15px 0;
-
+    
 .wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
